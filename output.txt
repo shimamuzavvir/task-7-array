@@ -1,0 +1,796 @@
+** output of b 
+
+
+['Christmas Island', 'Samoa', 'American Samoa',
+ 'Turks and Caicos Islands', 'Seychelles', 'Curaçao', 'British Indian Ocean Territory', 
+ 'United States Minor Outlying Islands', 'Åland Islands', 'United States Virgin Islands',
+  'San Marino', 'Saint Pierre and Miquelon', 'Faroe Islands', 'Svalbard and Jan Mayen', 
+  'Tokelau', 'Guernsey', 'Caribbean Netherlands', 'Greenland', 'Sint Maarten',
+   'Palau', 'South Georgia', 'Kiribati', 'Jersey', 'Aruba', 'Antigua and Barbuda', 'Gibraltar', 
+   'Pitcairn Islands', 'Cook Islands', 'Antarctica', 'Bouvet Island', 
+   'French Southern and Antarctic Lands', 'Saint Helena, Ascension and Tristan da Cunha',
+    'Bermuda', 'Monaco', 'Northern Mariana Islands', 'Grenada', 'Niue', 'Saint Lucia', 'Tuvalu', 
+    'Norfolk Island', 'Saint Kitts and Nevis', 'Tonga', 'Saint Vincent and the Grenadines', 'Isle of Man',
+     'Saint Martin', 'Saint Barthélemy', 'Micronesia', 'Anguilla', 'Vatican City', 'Montserrat', 
+     'British Virgin Islands', 'Liechtenstein', 'Nauru', 'Cayman Islands', 'Wallis and Futuna', 'Andorra', 
+     'Heard Island and McDonald Islands', 'Guam', 'Marshall Islands', 'Falkland Islands',
+      'Cocos (Keeling) Islands', 'Dominica']
+
+
+*** output of C 
+capital&flag.js:10 capital: Christmas Island
+capital&flag.js:11 flag: 🇨🇽
+capital&flag.js:12 image: https://flagcdn.com/w320/cx.png
+capital&flag.js:10 capital: Eritrea
+capital&flag.js:11 flag: 🇪🇷
+capital&flag.js:12 image: https://flagcdn.com/w320/er.png
+ capital: Samoa
+ flag: 🇼🇸
+ image: https://flagcdn.com/w320/ws.png
+ capital: North Macedonia
+ flag: 🇲🇰
+ image: https://flagcdn.com/w320/mk.png
+ capital: Djibouti
+ flag: 🇩🇯
+ image: https://flagcdn.com/w320/dj.png
+ capital: Jordan
+ flag: 🇯🇴
+ image: https://flagcdn.com/w320/jo.png
+ capital: Pakistan
+ flag: 🇵🇰
+ image: https://flagcdn.com/w320/pk.png
+ capital: French Polynesia
+ flag: 🇵🇫
+ image: https://flagcdn.com/w320/pf.png
+ capital: Ireland
+ flag: 🇮🇪
+ image: https://flagcdn.com/w320/ie.png
+ capital: Mauritania
+ flag: 🇲🇷
+ image: https://flagcdn.com/w320/mr.png
+ capital: Denmark
+ flag: 🇩🇰
+ image: https://flagcdn.com/w320/dk.png
+ capital: Namibia
+ flag: 🇳🇦
+ image: https://flagcdn.com/w320/na.png
+ capital: Ghana
+ flag: 🇬🇭
+ image: https://flagcdn.com/w320/gh.png
+ capital: South Sudan
+ flag: 🇸🇸
+ image: https://flagcdn.com/w320/ss.png
+ capital: Slovakia
+ flag: 🇸🇰
+ image: https://flagcdn.com/w320/sk.png
+ capital: American Samoa
+ flag: 🇦🇸
+ image: https://flagcdn.com/w320/as.png
+ capital: Moldova
+ flag: 🇲🇩
+ image: https://flagcdn.com/w320/md.png
+ capital: North Korea
+ flag: 🇰🇵
+ image: https://flagcdn.com/w320/kp.png
+ capital: Macau
+ flag: 🇲🇴
+ image: https://flagcdn.com/w320/mo.png
+ capital: Turks and Caicos Islands
+ flag: 🇹🇨
+ image: https://flagcdn.com/w320/tc.png
+ capital: Seychelles
+ flag: 🇸🇨
+ image: https://flagcdn.com/w320/sc.png
+ capital: Armenia
+ flag: 🇦🇲
+ image: https://flagcdn.com/w320/am.png
+ capital: Curaçao
+ flag: 🇨🇼
+ image: https://flagcdn.com/w320/cw.png
+ capital: Guadeloupe
+ flag: 🇬🇵
+ image: https://flagcdn.com/w320/gp.png
+ capital: British Indian Ocean Territory
+ flag: 🇮🇴
+ image: https://flagcdn.com/w320/io.png
+ capital: Equatorial Guinea
+ flag: 🇬🇶
+ image: https://flagcdn.com/w320/gq.png
+ capital: Syria
+ flag: 🇸🇾
+ image: https://flagcdn.com/w320/sy.png
+ capital: Angola
+ flag: 🇦🇴
+ image: https://flagcdn.com/w320/ao.png
+ capital: Tajikistan
+ flag: 🇹🇯
+ image: https://flagcdn.com/w320/tj.png
+ capital: Venezuela
+ flag: 🇻🇪
+ image: https://flagcdn.com/w320/ve.png
+ capital: United States Minor Outlying Islands
+ flag: 🇺🇲
+ image: https://flagcdn.com/w320/um.png
+ capital: Åland Islands
+ flag: 🇦🇽
+ image: https://flagcdn.com/w320/ax.png
+ capital: Poland
+ flag: 🇵🇱
+ image: https://flagcdn.com/w320/pl.png
+ capital: Saudi Arabia
+ flag: 🇸🇦
+ image: https://flagcdn.com/w320/sa.png
+ capital: Republic of the Congo
+ flag: 🇨🇬
+ image: https://flagcdn.com/w320/cg.png
+ capital: Bosnia and Herzegovina
+ flag: 🇧🇦
+ image: https://flagcdn.com/w320/ba.png
+ capital: United States Virgin Islands
+ flag: 🇻🇮
+ image: https://flagcdn.com/w320/vi.png
+ capital: New Caledonia
+ flag: 🇳🇨
+ image: https://flagcdn.com/w320/nc.png
+ capital: San Marino
+ flag: 🇸🇲
+ image: https://flagcdn.com/w320/sm.png
+ capital: Czechia
+ flag: 🇨🇿
+ image: https://flagcdn.com/w320/cz.png
+ capital: Guatemala
+ flag: 🇬🇹
+ image: https://flagcdn.com/w320/gt.png
+ capital: South Korea
+ flag: 🇰🇷
+ image: https://flagcdn.com/w320/kr.png
+ capital: Estonia
+ flag: 🇪🇪
+ image: https://flagcdn.com/w320/ee.png
+ capital: Nepal
+ flag: 🇳🇵
+ image: https://flagcdn.com/w320/np.png
+ capital: Kosovo
+ flag: 🇽🇰
+ image: https://flagcdn.com/w320/xk.png
+ capital: Botswana
+ flag: 🇧🇼
+ image: https://flagcdn.com/w320/bw.png
+ capital: Philippines
+ flag: 🇵🇭
+ image: https://flagcdn.com/w320/ph.png
+ capital: Saint Pierre and Miquelon
+ flag: 🇵🇲
+ image: https://flagcdn.com/w320/pm.png
+ capital: Iraq
+ flag: 🇮🇶
+ image: https://flagcdn.com/w320/iq.png
+ capital: Lebanon
+ flag: 🇱🇧
+ image: https://flagcdn.com/w320/lb.png
+ capital: Burundi
+ flag: 🇧🇮
+ image: https://flagcdn.com/w320/bi.png
+ capital: Mongolia
+ flag: 🇲🇳
+ image: https://flagcdn.com/w320/mn.png
+ capital: Faroe Islands
+ flag: 🇫🇴
+ image: https://flagcdn.com/w320/fo.png
+ capital: Paraguay
+ flag: 🇵🇾
+ image: https://flagcdn.com/w320/py.png
+ capital: Svalbard and Jan Mayen
+ flag: 🇸🇯
+ image: https://flagcdn.com/w320/sj.png
+ capital: Tokelau
+ flag: 🇹🇰
+ image: https://flagcdn.com/w320/tk.png
+ capital: Guernsey
+ flag: 🇬🇬
+ image: https://flagcdn.com/w320/gg.png
+ capital: Caribbean Netherlands
+ flag: 🇧🇶
+ image: https://flagcdn.com/w320/bq.png
+ capital: Algeria
+ flag: 🇩🇿
+ image: https://flagcdn.com/w320/dz.png
+ capital: France
+ flag: 🇫🇷
+ image: https://flagcdn.com/w320/fr.png
+ capital: Netherlands
+ flag: 🇳🇱
+ image: https://flagcdn.com/w320/nl.png
+ capital: Greenland
+ flag: 🇬🇱
+ image: https://flagcdn.com/w320/gl.png
+ capital: Sint Maarten
+ flag: 🇸🇽
+ image: https://flagcdn.com/w320/sx.png
+ capital: Chad
+ flag: 🇹🇩
+ image: https://flagcdn.com/w320/td.png
+ capital: Finland
+ flag: 🇫🇮
+ image: https://flagcdn.com/w320/fi.png
+ capital: Panama
+ flag: 🇵🇦
+ image: https://flagcdn.com/w320/pa.png
+ capital: Palestine
+ flag: 🇵🇸
+ image: https://flagcdn.com/w320/ps.png
+ capital: Yemen
+ flag: 🇾🇪
+ image: https://flagcdn.com/w320/ye.png
+ capital: Brazil
+ flag: 🇧🇷
+ image: https://flagcdn.com/w320/br.png
+ capital: Nigeria
+ flag: 🇳🇬
+ image: https://flagcdn.com/w320/ng.png
+ capital: Palau
+ flag: 🇵🇼
+ image: https://flagcdn.com/w320/pw.png
+ capital: Japan
+ flag: 🇯🇵
+ image: https://flagcdn.com/w320/jp.png
+ capital: Tanzania
+ flag: 🇹🇿
+ image: https://flagcdn.com/w320/tz.png
+ capital: Kazakhstan
+ flag: 🇰🇿
+ image: https://flagcdn.com/w320/kz.png
+ capital: Portugal
+ flag: 🇵🇹
+ image: https://flagcdn.com/w320/pt.png
+ capital: South Georgia
+ flag: 🇬🇸
+ image: https://flagcdn.com/w320/gs.png
+ capital: Sri Lanka
+ flag: 🇱🇰
+ image: https://flagcdn.com/w320/lk.png
+ capital: Germany
+ flag: 🇩🇪
+ image: https://flagcdn.com/w320/de.png
+ capital: Western Sahara
+ flag: 🇪🇭
+ image: https://flagcdn.com/w320/eh.png
+ capital: Myanmar
+ flag: 🇲🇲
+ image: https://flagcdn.com/w320/mm.png
+ capital: Colombia
+ flag: 🇨🇴
+ image: https://flagcdn.com/w320/co.png
+ capital: Peru
+ flag: 🇵🇪
+ image: https://flagcdn.com/w320/pe.png
+ capital: Senegal
+ flag: 🇸🇳
+ image: https://flagcdn.com/w320/sn.png
+ capital: Kyrgyzstan
+ flag: 🇰🇬
+ image: https://flagcdn.com/w320/kg.png
+ capital: China
+ flag: 🇨🇳
+ image: https://flagcdn.com/w320/cn.png
+ capital: Afghanistan
+ flag: 🇦🇫
+ image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png
+ capital: Turkey
+ flag: 🇹🇷
+ image: https://flagcdn.com/w320/tr.png
+ capital: Liberia
+ flag: 🇱🇷
+ image: https://flagcdn.com/w320/lr.png
+ capital: South Africa
+ flag: 🇿🇦
+ image: https://flagcdn.com/w320/za.png
+ capital: Chile
+ flag: 🇨🇱
+ image: https://flagcdn.com/w320/cl.png
+ capital: Malta
+ flag: 🇲🇹
+ image: https://flagcdn.com/w320/mt.png
+ capital: Kiribati
+ flag: 🇰🇮
+ image: https://flagcdn.com/w320/ki.png
+ capital: Cape Verde
+ flag: 🇨🇻
+ image: https://flagcdn.com/w320/cv.png
+ capital: Jersey
+ flag: 🇯🇪
+ image: https://flagcdn.com/w320/je.png
+ capital: Iceland
+ flag: 🇮🇸
+ image: https://flagcdn.com/w320/is.png
+ capital: Gambia
+ flag: 🇬🇲
+ image: https://flagcdn.com/w320/gm.png
+ capital: Vanuatu
+ flag: 🇻🇺
+ image: https://flagcdn.com/w320/vu.png
+ capital: Uruguay
+ flag: 🇺🇾
+ image: https://flagcdn.com/w320/uy.png
+ capital: Oman
+ flag: 🇴🇲
+ image: https://flagcdn.com/w320/om.png
+ capital: Sudan
+ flag: 🇸🇩
+ image: https://flagcdn.com/w320/sd.png
+ capital: India
+ flag: 🇮🇳
+ image: https://flagcdn.com/w320/in.png
+ capital: Laos
+ flag: 🇱🇦
+ image: https://flagcdn.com/w320/la.png
+ capital: Aruba
+ flag: 🇦🇼
+ image: https://flagcdn.com/w320/aw.png
+ capital: Martinique
+ flag: 🇲🇶
+ image: https://flagcdn.com/w320/mq.png
+ capital: Comoros
+ flag: 🇰🇲
+ image: https://flagcdn.com/w320/km.png
+ capital: Spain
+ flag: 🇪🇸
+ image: https://flagcdn.com/w320/es.png
+ capital: Antigua and Barbuda
+ flag: 🇦🇬
+ image: https://flagcdn.com/w320/ag.png
+ capital: Uzbekistan
+ flag: 🇺🇿
+ image: https://flagcdn.com/w320/uz.png
+ capital: Maldives
+ flag: 🇲🇻
+ image: https://flagcdn.com/w320/mv.png
+ capital: Gibraltar
+ flag: 🇬🇮
+ image: https://flagcdn.com/w320/gi.png
+ capital: Indonesia
+ flag: 🇮🇩
+ image: https://flagcdn.com/w320/id.png
+ capital: Pitcairn Islands
+ flag: 🇵🇳
+ image: https://flagcdn.com/w320/pn.png
+ capital: Vietnam
+ flag: 🇻🇳
+ image: https://flagcdn.com/w320/vn.png
+ capital: Malaysia
+ flag: 🇲🇾
+ image: https://flagcdn.com/w320/my.png
+ capital: Cook Islands
+ flag: 🇨🇰
+ image: https://flagcdn.com/w320/ck.png
+ capital: Eswatini
+ flag: 🇸🇿
+ image: https://flagcdn.com/w320/sz.png
+ capital: Uganda
+ flag: 🇺🇬
+ image: https://flagcdn.com/w320/ug.png
+ capital: Madagascar
+ flag: 🇲🇬
+ image: https://flagcdn.com/w320/mg.png
+ capital: Fiji
+ flag: 🇫🇯
+ image: https://flagcdn.com/w320/fj.png
+ capital: Norway
+ flag: 🇳🇴
+ image: https://flagcdn.com/w320/no.png
+ capital: Antarctica
+ flag: 🇦🇶
+ image: https://flagcdn.com/w320/aq.png
+ capital: Bouvet Island
+ flag: 🇧🇻
+ image: https://flagcdn.com/w320/bv.png
+ capital: Cyprus
+ flag: 🇨🇾
+ image: https://flagcdn.com/w320/cy.png
+ capital: Taiwan
+ flag: 🇹🇼
+ image: https://flagcdn.com/w320/tw.png
+ capital: Papua New Guinea
+ flag: 🇵🇬
+ image: https://flagcdn.com/w320/pg.png
+ capital: Rwanda
+ flag: 🇷🇼
+ image: https://flagcdn.com/w320/rw.png
+ capital: DR Congo
+ flag: 🇨🇩
+ image: https://flagcdn.com/w320/cd.png
+ capital: Cameroon
+ flag: 🇨🇲
+ image: https://flagcdn.com/w320/cm.png
+ capital: Serbia
+ flag: 🇷🇸
+ image: https://flagcdn.com/w320/rs.png
+ capital: Lithuania
+ flag: 🇱🇹
+ image: https://flagcdn.com/w320/lt.png
+ capital: French Southern and Antarctic Lands
+ flag: 🇹🇫
+ image: https://flagcdn.com/w320/tf.png
+ capital: Cambodia
+ flag: 🇰🇭
+ image: https://flagcdn.com/w320/kh.png
+ capital: Saint Helena, Ascension and Tristan da Cunha
+ flag: 🇸🇭
+ image: https://flagcdn.com/w320/sh.png
+ capital: United Arab Emirates
+ flag: 🇦🇪
+ image: https://flagcdn.com/w320/ae.png
+ capital: Bermuda
+ flag: 🇧🇲
+ image: https://flagcdn.com/w320/bm.png
+ capital: Monaco
+ flag: 🇲🇨
+ image: https://flagcdn.com/w320/mc.png
+ capital: Cuba
+ flag: 🇨🇺
+ image: https://flagcdn.com/w320/cu.png
+ capital: Hong Kong
+ flag: 🇭🇰
+ image: https://flagcdn.com/w320/hk.png
+ capital: Northern Mariana Islands
+ flag: 🇲🇵
+ image: https://flagcdn.com/w320/mp.png
+ capital: Togo
+ flag: 🇹🇬
+ image: https://flagcdn.com/w320/tg.png
+ capital: Luxembourg
+ flag: 🇱🇺
+ image: https://flagcdn.com/w320/lu.png
+ capital: Mauritius
+ flag: 🇲🇺
+ image: https://flagcdn.com/w320/mu.png
+ capital: Argentina
+ flag: 🇦🇷
+ image: https://flagcdn.com/w320/ar.png
+ capital: Grenada
+ flag: 🇬🇩
+ image: https://flagcdn.com/w320/gd.png
+ capital: Nicaragua
+ flag: 🇳🇮
+ image: https://flagcdn.com/w320/ni.png
+ capital: Niue
+ flag: 🇳🇺
+ image: https://flagcdn.com/w320/nu.png
+ capital: Ukraine
+ flag: 🇺🇦
+ image: https://flagcdn.com/w320/ua.png
+ capital: Guyana
+ flag: 🇬🇾
+ image: https://flagcdn.com/w320/gy.png
+ capital: Niger
+ flag: 🇳🇪
+ image: https://flagcdn.com/w320/ne.png
+ capital: Benin
+ flag: 🇧🇯
+ image: https://flagcdn.com/w320/bj.png
+ capital: Saint Lucia
+ flag: 🇱🇨
+ image: https://flagcdn.com/w320/lc.png
+ capital: Tuvalu
+ flag: 🇹🇻
+ image: https://flagcdn.com/w320/tv.png
+ capital: Norfolk Island
+ flag: 🇳🇫
+ image: https://flagcdn.com/w320/nf.png
+ capital: Egypt
+ flag: 🇪🇬
+ image: https://flagcdn.com/w320/eg.png
+ capital: Saint Kitts and Nevis
+ flag: 🇰🇳
+ image: https://flagcdn.com/w320/kn.png
+ capital: Lesotho
+ flag: 🇱🇸
+ image: https://flagcdn.com/w320/ls.png
+ capital: Tonga
+ flag: 🇹🇴
+ image: https://flagcdn.com/w320/to.png
+ capital: Georgia
+ flag: 🇬🇪
+ image: https://flagcdn.com/w320/ge.png
+ capital: Ethiopia
+ flag: 🇪🇹
+ image: https://flagcdn.com/w320/et.png
+ capital: Dominican Republic
+ flag: 🇩🇴
+ image: https://flagcdn.com/w320/do.png
+ capital: Saint Vincent and the Grenadines
+ flag: 🇻🇨
+ image: https://flagcdn.com/w320/vc.png
+ capital: Belize
+ flag: 🇧🇿
+ image: https://flagcdn.com/w320/bz.png
+ capital: Isle of Man
+ flag: 🇮🇲
+ image: https://flagcdn.com/w320/im.png
+ capital: Morocco
+ flag: 🇲🇦
+ image: https://flagcdn.com/w320/ma.png
+ capital: Haiti
+ flag: 🇭🇹
+ image: https://flagcdn.com/w320/ht.png
+ capital: Mayotte
+ flag: 🇾🇹
+ image: https://flagcdn.com/w320/yt.png
+ capital: Burkina Faso
+ flag: 🇧🇫
+ image: https://flagcdn.com/w320/bf.png
+ capital: Bangladesh
+ flag: 🇧🇩
+ image: https://flagcdn.com/w320/bd.png
+ capital: Kuwait
+ flag: 🇰🇼
+ image: https://flagcdn.com/w320/kw.png
+ capital: Réunion
+ flag: 🇷🇪
+ image: https://flagcdn.com/w320/re.png
+ capital: Jamaica
+ flag: 🇯🇲
+ image: https://flagcdn.com/w320/jm.png
+ capital: Romania
+ flag: 🇷🇴
+ image: https://flagcdn.com/w320/ro.png
+ capital: São Tomé and Príncipe
+ flag: 🇸🇹
+ image: https://flagcdn.com/w320/st.png
+ capital: Bahamas
+ flag: 🇧🇸
+ image: https://flagcdn.com/w320/bs.png
+ capital: Mexico
+ flag: 🇲🇽
+ image: https://flagcdn.com/w320/mx.png
+ capital: Saint Martin
+ flag: 🇲🇫
+ image: https://flagcdn.com/w320/mf.png
+ capital: El Salvador
+ flag: 🇸🇻
+ image: https://flagcdn.com/w320/sv.png
+ capital: Saint Barthélemy
+ flag: 🇧🇱
+ image: https://flagcdn.com/w320/bl.png
+ capital: Micronesia
+ flag: 🇫🇲
+ image: https://flagcdn.com/w320/fm.png
+ capital: Turkmenistan
+ flag: 🇹🇲
+ image: https://flagcdn.com/w320/tm.png
+ capital: Anguilla
+ flag: 🇦🇮
+ image: https://flagcdn.com/w320/ai.png
+ capital: Central African Republic
+ flag: 🇨🇫
+ image: https://flagcdn.com/w320/cf.png
+ capital: Suriname
+ flag: 🇸🇷
+ image: https://flagcdn.com/w320/sr.png
+ capital: Belgium
+ flag: 🇧🇪
+ image: https://flagcdn.com/w320/be.png
+ capital: Sweden
+ flag: 🇸🇪
+ image: https://flagcdn.com/w320/se.png
+ capital: Bolivia
+ flag: 🇧🇴
+ image: https://flagcdn.com/w320/bo.png
+ capital: Montenegro
+ flag: 🇲🇪
+ image: https://flagcdn.com/w320/me.png
+ capital: Mozambique
+ flag: 🇲🇿
+ image: https://flagcdn.com/w320/mz.png
+ capital: Latvia
+ flag: 🇱🇻
+ image: https://flagcdn.com/w320/lv.png
+ capital: Malawi
+ flag: 🇲🇼
+ image: https://flagcdn.com/w320/mw.png
+ capital: Mali
+ flag: 🇲🇱
+ image: https://flagcdn.com/w320/ml.png
+ capital: Vatican City
+ flag: 🇻🇦
+ image: https://flagcdn.com/w320/va.png
+ capital: Montserrat
+ flag: 🇲🇸
+ image: https://flagcdn.com/w320/ms.png
+ capital: Austria
+ flag: 🇦🇹
+ image: https://flagcdn.com/w320/at.png
+ capital: Albania
+ flag: 🇦🇱
+ image: https://flagcdn.com/w320/al.png
+ capital: British Virgin Islands
+ flag: 🇻🇬
+ image: https://flagcdn.com/w320/vg.png
+ capital: Zambia
+ flag: 🇿🇲
+ image: https://flagcdn.com/w320/zm.png
+ capital: French Guiana
+ flag: 🇬🇫
+ image: https://flagcdn.com/w320/gf.png
+ capital: Liechtenstein
+ flag: 🇱🇮
+ image: https://flagcdn.com/w320/li.png
+ capital: Qatar
+ flag: 🇶🇦
+ image: https://flagcdn.com/w320/qa.png
+ capital: Solomon Islands
+ flag: 🇸🇧
+ image: https://flagcdn.com/w320/sb.png
+ capital: Nauru
+ flag: 🇳🇷
+ image: https://flagcdn.com/w320/nr.png
+ capital: Greece
+ flag: 🇬🇷
+ image: https://flagcdn.com/w320/gr.png
+ capital: Libya
+ flag: 🇱🇾
+ image: https://flagcdn.com/w320/ly.png
+ capital: Guinea-Bissau
+ flag: 🇬🇼
+ image: https://flagcdn.com/w320/gw.png
+ capital: Barbados
+ flag: 🇧🇧
+ image: https://flagcdn.com/w320/bb.png
+ capital: Honduras
+ flag: 🇭🇳
+ image: https://flagcdn.com/w320/hn.png
+ capital: Somalia
+ flag: 🇸🇴
+ image: https://flagcdn.com/w320/so.png
+ capital: Cayman Islands
+ flag: 🇰🇾
+ image: https://flagcdn.com/w320/ky.png
+ capital: Italy
+ flag: 🇮🇹
+ image: https://flagcdn.com/w320/it.png
+ capital: Wallis and Futuna
+ flag: 🇼🇫
+ image: https://flagcdn.com/w320/wf.png
+ capital: Andorra
+ flag: 🇦🇩
+ image: https://flagcdn.com/w320/ad.png
+ capital: Ecuador
+ flag: 🇪🇨
+ image: https://flagcdn.com/w320/ec.png
+ capital: Kenya
+ flag: 🇰🇪
+ image: https://flagcdn.com/w320/ke.png
+ capital: Bahrain
+ flag: 🇧🇭
+ image: https://flagcdn.com/w320/bh.png
+ capital: United Kingdom
+ flag: 🇬🇧
+ image: https://flagcdn.com/w320/gb.png
+ capital: Guinea
+ flag: 🇬🇳
+ image: https://flagcdn.com/w320/gn.png
+ capital: Heard Island and McDonald Islands
+ flag: 🇭🇲
+ image: https://flagcdn.com/w320/hm.png
+ capital: Russia
+ flag: 🇷🇺
+ image: https://flagcdn.com/w320/ru.png
+ capital: Brunei
+ flag: 🇧🇳
+ image: https://flagcdn.com/w320/bn.png
+ capital: Zimbabwe
+ flag: 🇿🇼
+ image: https://flagcdn.com/w320/zw.png
+ capital: Guam
+ flag: 🇬🇺
+ image: https://flagcdn.com/w320/gu.png
+ capital: Australia
+ flag: 🇦🇺
+ image: https://flagcdn.com/w320/au.png
+ capital: Slovenia
+ flag: 🇸🇮
+ image: https://flagcdn.com/w320/si.png
+ capital: Belarus
+ flag: 🇧🇾
+ image: https://flagcdn.com/w320/by.png
+ capital: Thailand
+ flag: 🇹🇭
+ image: https://flagcdn.com/w320/th.png
+ capital: New Zealand
+ flag: 🇳🇿
+capital&flag.js:12 image: https://flagcdn.com/w320/nz.png
+capital&flag.js:10 capital: Tunisia
+capital&flag.js:11 flag: 🇹🇳
+capital&flag.js:12 image: https://flagcdn.com/w320/tn.png
+capital&flag.js:10 capital: Marshall Islands
+capital&flag.js:11 flag: 🇲🇭
+capital&flag.js:12 image: https://flagcdn.com/w320/mh.png
+capital&flag.js:10 capital: Sierra Leone
+capital&flag.js:11 flag: 🇸🇱
+capital&flag.js:12 image: https://flagcdn.com/w320/sl.png
+capital&flag.js:10 capital: Bhutan
+capital&flag.js:11 flag: 🇧🇹
+capital&flag.js:12 image: https://flagcdn.com/w320/bt.png
+capital&flag.js:10 capital: United States
+capital&flag.js:11 flag: 🇺🇸
+capital&flag.js:12 image: https://flagcdn.com/w320/us.png
+capital&flag.js:10 capital: Switzerland
+capital&flag.js:11 flag: 🇨🇭
+capital&flag.js:12 image: https://flagcdn.com/w320/ch.png
+capital&flag.js:10 capital: Falkland Islands
+capital&flag.js:11 flag: 🇫🇰
+capital&flag.js:12 image: https://flagcdn.com/w320/fk.png
+capital&flag.js:10 capital: Cocos (Keeling) Islands
+capital&flag.js:11 flag: 🇨🇨
+capital&flag.js:12 image: https://flagcdn.com/w320/cc.png
+capital&flag.js:10 capital: Gabon
+capital&flag.js:11 flag: 🇬🇦
+capital&flag.js:12 image: https://flagcdn.com/w320/ga.png
+capital&flag.js:10 capital: Dominica
+capital&flag.js:11 flag: 🇩🇲
+capital&flag.js:12 image: https://flagcdn.com/w320/dm.png
+capital&flag.js:10 capital: Canada
+capital&flag.js:11 flag: 🇨🇦
+capital&flag.js:12 image: https://flagcdn.com/w320/ca.png
+capital&flag.js:10 capital: Trinidad and Tobago
+capital&flag.js:11 flag: 🇹🇹
+capital&flag.js:12 image: https://flagcdn.com/w320/tt.png
+capital&flag.js:10 capital: Puerto Rico
+capital&flag.js:11 flag: 🇵🇷
+capital&flag.js:12 image: https://flagcdn.com/w320/pr.png
+capital&flag.js:10 capital: Singapore
+capital&flag.js:11 flag: 🇸🇬
+capital&flag.js:12 image: https://flagcdn.com/w320/sg.png
+capital&flag.js:10 capital: Hungary
+capital&flag.js:11 flag: 🇭🇺
+capital&flag.js:12 image: https://flagcdn.com/w320/hu.png
+capital&flag.js:10 capital: Costa Rica
+capital&flag.js:11 flag: 🇨🇷
+capital&flag.js:12 image: https://flagcdn.com/w320/cr.png
+capital&flag.js:10 capital: Israel
+capital&flag.js:11 flag: 🇮🇱
+capital&flag.js:12 image: https://flagcdn.com/w320/il.png
+capital&flag.js:10 capital: Bulgaria
+capital&flag.js:11 flag: 🇧🇬
+capital&flag.js:12 image: https://flagcdn.com/w320/bg.png
+capital&flag.js:10 capital: Azerbaijan
+capital&flag.js:11 flag: 🇦🇿
+capital&flag.js:12 image: https://flagcdn.com/w320/az.png
+capital&flag.js:10 capital: Timor-Leste
+capital&flag.js:11 flag: 🇹🇱
+capital&flag.js:12 image: https://flagcdn.com/w320/tl.png
+capital&flag.js:10 capital: Iran
+capital&flag.js:11 flag: 🇮🇷
+capital&flag.js:12 image: https://flagcdn.com/w320/ir.png
+capital&flag.js:10 capital: Croatia
+capital&flag.js:11 flag: 🇭🇷
+capital&flag.js:12 image: https://flagcdn.com/w320/hr.png
+capital&flag.js:10 capital: Ivory Coast
+capital&flag.js:11 flag: 🇨🇮
+capital&flag.js:12 image: https://flagcdn.com/w320/ci.png
+
+
+** output d 
+Totpoulation.js:11 7777721563
+
+** output of e
+USd.js:11 1 'American Samoa'
+USd.js:11 2 'Turks and Caicos Islands'
+USd.js:11 3 'British Indian Ocean Territory'
+USd.js:11 4 'United States Minor Outlying Islands'
+USd.js:11 5 'United States Virgin Islands'
+USd.js:11 6 'Caribbean Netherlands'
+USd.js:11 7 'Panama'
+USd.js:11 8 'Palau'
+USd.js:11 9 'Cambodia'
+USd.js:11 10 'Northern Mariana Islands'
+USd.js:11 11 'Bahamas'
+USd.js:11 12 'El Salvador'
+USd.js:11 13 'Micronesia'
+USd.js:11 14 'British Virgin Islands'
+USd.js:11 15 'Ecuador'
+USd.js:11 16 'Guam'
+USd.js:11 17 'Marshall Islands'
+USd.js:11 18 'United States'
+USd.js:11 19 'Puerto Rico'
+USd.js:11 20 'Timor-Leste'
